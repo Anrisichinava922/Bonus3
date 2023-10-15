@@ -1,0 +1,198 @@
+@media (width > 1440px){
+    header{
+        column-gap: 880px;
+        margin: 0 80px 70px 80px;
+    }
+    header img{
+        width: 200px;
+        height: 31px;
+        flex-shrink: 0;
+    }
+    .but1{
+        width: 200px;
+        height: 48px;
+        flex-shrink: 0;
+        border-radius: 24px;
+    }
+    .firstbox{
+        background-image: url(./assets/desktopback1.svg) , url(./assets/desktopback2.svg) , url(./assets/Triangle\ 2.svg) , url(./assets/Rectangle2.svg) , url(./assets/Rectangle-2.22svg.svg);
+        background-repeat: no-repeat;
+        background-position:  100% 0 , 0 0 , 59.5% 36.5% , 70% 85.5% , 40% 90%;
+        height: 721px;
+        flex-shrink: 0;
+    }
+    .mainbox{
+        display: flex;
+        flex-direction: row;
+    }
+    .mainboxtext{
+        display: flex;
+        align-items: start;
+        flex-direction: column;
+    }
+    h1{
+        text-align: start;
+        width: 536px;
+        font-size: 40px;
+        line-height: 60px;
+    }
+    h2{
+        text-align: start;
+        width: 520px;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .but2{
+        width: 280px;
+        height: 56px;
+        flex-shrink: 0;
+        border-radius: 28px;
+    }
+    .mainbox img{
+        width: 642.52px;
+        height: 401.667px;
+        flex-shrink: 0;
+    }
+    .boxes{
+        row-gap: 40px;
+    }
+    .box{
+        width: 1232px;
+        height: 440px;
+        flex-shrink: 0;
+        border-radius: 16px;
+        display: flex;
+    }
+    .box1{
+        flex-direction: row-reverse;
+        column-gap: 185px;
+        padding-left: 120px;
+        padding-right: 32px;
+    }
+    .box2{
+        flex-direction: row;
+        column-gap: 165px;
+        padding-left: 120px;
+        padding-right: 29px;
+    }
+    .box3{
+        flex-direction: row-reverse;
+        column-gap: 188px;
+        padding-left: 120px;
+        padding-right: 26px;
+    }
+    .box1 img{
+        width: 406.467px;
+        height: 332.286px;
+        flex-shrink: 0;
+    }
+    .box2 img{
+        width: 406.467px;
+        height: 332.286px;
+        flex-shrink: 0;
+    }
+    .box3 img{
+        width: 406.467px;
+        height: 332.286px;
+        flex-shrink: 0;
+    }
+    .box1txt{   
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        text-align: start;
+        row-gap: 16px;
+    }
+    .box2txt{   
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        text-align: start;
+        row-gap: 16px;
+    }
+    .box3txt{   
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        text-align: start;
+        row-gap: 16px;
+    }
+    h3{
+        font-size: 28px;
+        line-height: 42px;
+    }
+    .box1txt h4{
+        width: 488px;
+        font-size: 18px;
+        line-height: 27px;
+    }
+    .box2txt h4{
+        width: 499px;
+        font-size: 18px;
+        line-height: 27px;
+    }
+    .box3txt h4{
+        width: 477px;
+        font-size: 18px;
+        line-height: 27px;
+    }
+    footer{
+        margin-top: 344px;
+        height: 418px;
+        flex-shrink: 0;
+    }
+    .lastbox{
+        width: 800px;
+        height: 280px;
+        flex-shrink: 0;
+        margin-top: -200px;
+    }
+    h5{
+        width: 600px;
+        font-size: 32px;
+        line-height: 60px;
+    }
+    .but3{
+        border-radius: 40px;
+        width: 400px;
+        height: 80px;
+        flex-shrink: 0;
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .footerbox2{
+        display: flex;
+        flex-direction: row;
+    }
+    .flexbox{
+        margin-left: 120px;
+        margin-top: -50px;
+    }
+    .footertext5{
+        display: flex;
+        flex-direction: row;
+        margin-left: 130px;
+        margin-top: 100px;
+    }
+    .column1{
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        text-align: start;
+        row-gap: 12px;
+    }
+    .column2{
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        text-align: start;
+        row-gap: 12px;
+    }
+    .footertext6{
+        margin-top: 100px;
+        margin-left: -80px;
+        align-items: start;
+        text-align: start;
+        row-gap: 110px;
+    }
+}
